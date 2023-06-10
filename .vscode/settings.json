@@ -1,0 +1,7 @@
+{
+  "beautify.config": {
+    "html": {
+      "wrap_attributes": "auto"
+    }
+  },
+}
